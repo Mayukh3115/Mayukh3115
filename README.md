@@ -9,12 +9,10 @@ Currently a student passionate about leveraging data to solve real-world problem
 - **Data Science**: Love diving into data, uncovering insights, and making sense of numbers!
 
 ## 🚀 Projects
-I'm actively working on several projects—stay tuned for updates as I continue learning and building!
+- 🎥 **[Movie Recommender & Explorer](https://movierecommender-wnlqgfaw9wkcjkrqtnzx4u.streamlit.app)** – A web app that recommends similar movies based on your input, with an interactive dataset explorer.  
+  [📂 GitHub Repo](https://github.com/Mayukh3115/movie_recommender)
 
-<!--
-You can showcase your best work here in the future, for example:
-- [Project Name](link) – Short description
--->
+I'm actively working on several other projects—stay tuned for updates as I continue learning and building!
 
 ## 📫 Let's Connect
 I'm always eager to learn, collaborate, or talk about tech. Feel free to reach out!
